@@ -26,7 +26,6 @@ const navItems = [
   { name: 'Campaigns', href: '/admin/campaigns', icon: Megaphone },
   { name: 'Support', href: '/admin/support', icon: LifeBuoy },
   { name: 'Settings', href: '/admin/settings', icon: Settings },
-  { name: 'Search', href: '/admin/search', icon: Search },
 ];
 
 export function Sidebar() {

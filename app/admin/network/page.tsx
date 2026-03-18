@@ -73,7 +73,7 @@ export default async function NetworkPage({ searchParams }: { searchParams: Prom
     <div className="flex flex-col gap-6">
       <div>
         <h1 className="text-3xl font-bold tracking-tight">Network Structure</h1>
-        <p className="text-slate-500">View and manage the IB hierarchy (Trader &rarr; L1 &rarr; L2).</p>
+        <p className="text-slate-500">View and manage the Network hierarchy (Trader &rarr; L1 &rarr; L2).</p>
       </div>
 
       <div className="grid gap-4 md:grid-cols-4">
